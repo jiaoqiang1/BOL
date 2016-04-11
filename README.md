@@ -6,15 +6,14 @@
 
 ##第一章
 
-    * [第1节](https://jiaoqiang1.gitbooks.io/-/content/jiaoqiang1.md/c1s1mdmd.html)
+###[第1节](https://jiaoqiang1.gitbooks.io/-/content/jiaoqiang1.md/c1s1mdmd.html)
 
     
-        * [第2节](https://jiaoqiang1.gitbooks.io/-/content/.jiaoqiang1.md/c1s2md.html)
+###[第2节](https://jiaoqiang1.gitbooks.io/-/content/.jiaoqiang1.md/c1s2md.html)
     
     
 ##第二章
+###[第1节](https://jiaoqiang1.gitbooks.io/-/content/di_1_jie.html)
 
-    * [第1节](https://jiaoqiang1.gitbooks.io/-/content/di_1_jie.html)
-
-        * [第2节](https://jiaoqiang1.gitbooks.io/-/content/di_2_jie.html)
+###[第2节](https://jiaoqiang1.gitbooks.io/-/content/di_2_jie.html)
  
