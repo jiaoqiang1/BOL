@@ -1,5 +1,5 @@
 #                                                    汽车营销策划
-[![汽车](http://www.baidu.com/img/bdlogo.gif "宝马logo")](http://www.baidu.com)
+[![汽车](http://www.baidu.com/img/bdlogo.gif "宝马logo")](http://www.bmw.com.cn/zh_CN/index.html)
 ==========================================================================================
 #前言
 
