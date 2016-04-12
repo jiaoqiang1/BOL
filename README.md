@@ -1,5 +1,5 @@
 #                                                    汽车营销策划
-[![汽车](http://www.baoma.com/img/bdlogo.gif "宝马logo")](http://www.bmw.com.cn/zh_CN/index.html)
+[![baomam](https://p.ssl.qhimg.com/dmsmty/114_114_100/t01d77a1628b332daa7.png)](http://www.bmw.com.cn/zh_CN/index.html)
 ==========================================================================================
 #前言
 
