@@ -3,7 +3,7 @@
 #前言
 #目录：
 ----
-####（1）[市场分析](https://github.com/jiaoqiang1/BOL/edit/master/README.md)
+####（1）[市场分析](https://github.com/jiaoqiang1/BOL/blob/master/%E4%BC%81%E4%B8%9A%E5%88%86%E6%9E%90.md)
 ####（2）[消费者分析]
 ####（3）[产品分析]
 ####（4）[企业分析]
